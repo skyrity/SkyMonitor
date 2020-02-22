@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SkyComm/SkyComm.iml" filepath="$PROJECT_DIR$/SkyComm/SkyComm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkyMonitor.iml" filepath="$PROJECT_DIR$/SkyMonitor.iml" />
+    </modules>
+  </component>
+</project>
